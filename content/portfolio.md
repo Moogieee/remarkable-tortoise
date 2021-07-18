@@ -31,12 +31,5 @@ seo:
 layout: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+    \<img src="https://scontent-lax3-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/210115180\_545238316644702\_7666532447000748641\_n.jpg?\_nc_ht=scontent-lax3-2.cdninstagram.com&\_nc_cat=106&\_nc_ohc=oMHslg_VjD4AX9-P6kc\&edm=AP_V10EBAAAA\&ccb=7-4\&oh=cc0bdbc186b0c41f12f09d87b7e143fd\&oe=60FAD8CC&\_nc_sid=4f375e" alt="car" width="32" 
+    height="32"> 
